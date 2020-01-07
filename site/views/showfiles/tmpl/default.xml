@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_CS_SHOWFILES_TITLE_LIST_VIEW_SHOWFILES" option="View">
+        <message>
+                        <![CDATA[COM_CS_SHOWFILES_TITLE_LIST_VIEW_SHOWFILES_DESC]]>
+        </message>
+	</layout>
+</metadata>
